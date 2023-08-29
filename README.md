@@ -7,7 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 <br></br>
 
 💻 **My Most Interests**
