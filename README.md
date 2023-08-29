@@ -8,6 +8,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+<br></br>
 
 💻 **My Most Interests**
 - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -19,9 +20,7 @@
     <!--<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="xxxx&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
      </a> -->
-    
-
-
+<br></br>
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
