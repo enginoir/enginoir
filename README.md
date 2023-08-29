@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/enginoir/enginoir/blob/main/ezgif.com-gif-maker.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/enginoir/enginoir/blob/main/giphy.gif" alt="Coder GIF" width="420" height="330">
 
 
 
