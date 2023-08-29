@@ -10,7 +10,7 @@
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development
 - Backend Development ✍️
 - Machine Learning 🧐
@@ -23,16 +23,16 @@
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/logo-javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![php](https://img.shields.io/badge/php_laravel-blue)
+![php](https://img.shields.io/badge/php_laravel-000000?style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Node.JS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+![Node.JS](https://img.shields.io/npm/v/npm.svg-000000?style=flat&?logo=nodedotjs)
 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
