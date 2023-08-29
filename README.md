@@ -9,7 +9,7 @@
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
+💻 **My Most Interests**
 - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development
 - Backend Development ✍️
@@ -38,5 +38,5 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+    <h3 align="center">By starring some of the repositories, means a world to me!</h3>
 </div>
