@@ -34,7 +34,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react)
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react)
+    <a href="https://github.com/enginoir">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
+    </a>
 </div>
 
 <div align="center">
