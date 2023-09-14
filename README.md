@@ -8,7 +8,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 <br/>
-<h1 align="center">
+<h3 align="center">
 💻 **My Most Interests**
 - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development
@@ -16,7 +16,7 @@
 - Machine Learning 🧐
 - Data Science 😬
 <br/>
-</h1>
+</h3>
 
 🛠**Tech Stack**
 
