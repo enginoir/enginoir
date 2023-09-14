@@ -25,14 +25,12 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<div align="center">
-    <h3 align="center" style="bold">
-    💻 My Most Interests
-        <h4 align="center">
-           | JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
-        </h4>
-    </h3>
-</div>
+<h3 align="center" style="bold">
+💻 My Most Interests
+    <h4 align="center">
+       | JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
+    </h4>
+</h3>
 <br/>
 <div align="center">
     <a href="https://github.com/enginoir">
