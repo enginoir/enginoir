@@ -28,7 +28,7 @@
 <h3 align="center" style="bold">
 💻 My Most Interests
     <h4 align="center">
-       | JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">| Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
+       | JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
     </h4>
 </h3>
 
