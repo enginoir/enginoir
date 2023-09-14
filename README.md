@@ -1,8 +1,8 @@
 <img align="right" src="https://github.com/enginoir/enginoir/blob/main/giphy.gif" alt="Coder GIF" width="420" height="330">
 
-
-
-### Hi there, I am M. Yusuf 👋
+![](https://komarev.com/ghpvc/?username=enginoir&label=GHub-PROFILE+VIEWS)
+### Hi there, 
+I am M. Yusuf 👋
 [![Linkedin Badge](https://img.shields.io/badge/-myusufsubhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-yusuf-subhan/)](https://www.linkedin.com/in/muhammad-yusuf-subhan/)
 [![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com) 
 
@@ -38,5 +38,5 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 <div align="center">
-    <h3 align="center">By starring some of the repositories, means a world to me!</h3>
+    <h3 align="center">== By starring some of the repositories, means the world to me! ==</h3>
 </div>
