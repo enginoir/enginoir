@@ -7,7 +7,6 @@ I am M. Yusuf 👋
 [![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
-<br></br>
 
 💻 **My Most Interests**
 - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -20,7 +19,6 @@ I am M. Yusuf 👋
       <img align="right" width=420 height="auto" src="xxxx&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
      </a> -->
 🛠**Tech Stack**
-
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![php](https://img.shields.io/badge/php-000000?style=flat)
