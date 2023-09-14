@@ -7,9 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusuf)](mailto:yusufsubhanj@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
-<br/>
 
-<h3 align="center" style="bold"> 🛠Tech Stack </h3>
+<h3 align="left" style="bold"> 🛠Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
@@ -29,11 +28,7 @@
 <h3 align="center" style="bold">
 💻 My Most Interests
     <h4 align="center">
-        <p>JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
-        <p>Frontend Development</p>
-        <p>Backend Development ✍️</p>
-        <p>Machine Learning 🧐</p>
-        <p>Data Science 😬</p>
+       | JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">| Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
     </h4>
 </h3>
 
