@@ -15,6 +15,7 @@
 - Data Science 😬
 
 🛠**Tech Stack**
+
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![php](https://img.shields.io/badge/php-000000?style=flat)
