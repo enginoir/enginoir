@@ -36,7 +36,7 @@ I am M. Yusuf 👋
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react)
 
 <div align="center">
     <h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
