@@ -7,7 +7,6 @@
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 
-
 💻 **My Most Interests**
 - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Frontend Development
@@ -15,9 +14,6 @@
 - Machine Learning 🧐
 - Data Science 😬
 
-    <!--<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="xxxx&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-     </a> -->
 🛠**Tech Stack**
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
@@ -32,7 +28,11 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react)
+<div align="center">
+    <a href="https://github.com/enginoir">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
+    </a>
+</div>
 <div align="center">
     <a href="https://github.com/enginoir">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
