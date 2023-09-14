@@ -8,16 +8,6 @@
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 <br/>
-<h3 align="center" style="bold">
-💻 My Most Interests
-    <h4 align="center">
-        <p>JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
-        <p>Frontend Development</p>
-        <p>Backend Development ✍️</p>
-        <p>Machine Learning 🧐</p>
-        <p>Data Science 😬</p>
-    </h4>
-</h3>
 
 <h3 align="center" style="bold"> 🛠Tech Stack </h3>
 
@@ -36,6 +26,16 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
+<h3 align="center" style="bold">
+💻 My Most Interests
+    <h4 align="center">
+        <p>JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+        <p>Frontend Development</p>
+        <p>Backend Development ✍️</p>
+        <p>Machine Learning 🧐</p>
+        <p>Data Science 😬</p>
+    </h4>
+</h3>
 
 <div align="center">
     <a href="https://github.com/enginoir">
