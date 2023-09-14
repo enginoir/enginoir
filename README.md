@@ -27,16 +27,15 @@ I am M. Yusuf 👋
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Node.JS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react)
 
 <div align="center">
     <h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
