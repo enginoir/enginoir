@@ -3,22 +3,22 @@
 ![](https://komarev.com/ghpvc/?username=enginoir&style=plastic&label=GHub-PROFILE+VIEWS)
 
 ### Hi there, I am M. Yusuf 👋
-[![Linkedin Badge](https://img.shields.io/badge/-myusufsubhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-yusuf-subhan/)](https://www.linkedin.com/in/muhammad-yusuf-subhan/)
-[![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-myusufsubhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myusuf/)](https://www.linkedin.com/in/muhammad-yusuf-subhan/)
+[![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusuf)](mailto:yusufsubhanj@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 <br/>
-<h3 align="center">
-💻 **My Most Interests**
-- JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Frontend Development
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
-<br/>
+<h3 align="center" style="bold">
+💻 My Most Interests
+    <h1 align="center">
+        - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+        - Frontend Development
+        - Backend Development ✍️
+        - Machine Learning 🧐
+        - Data Science 😬
 </h3>
 
-🛠**Tech Stack**
+<h3 align="center" style="bold"> 🛠Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
