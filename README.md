@@ -10,12 +10,13 @@
 <br/>
 <h3 align="center" style="bold">
 💻 My Most Interests
-    <h1 align="center">
-        - JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        - Frontend Development
-        - Backend Development ✍️
-        - Machine Learning 🧐
-        - Data Science 😬
+    <h4 align="center">
+        <p>JavaScript & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+        <p>Frontend Development</p>
+        <p>Backend Development ✍️</p>
+        <p>Machine Learning 🧐</p>
+        <p>Data Science 😬</p>
+    </h4>
 </h3>
 
 <h3 align="center" style="bold"> 🛠Tech Stack </h3>
