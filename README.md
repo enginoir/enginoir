@@ -8,7 +8,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 
-<h3 align="left" style="bold"> 🛠Tech Stack </h3>
+- <h3 align="left" style="bold"> 🛠Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
