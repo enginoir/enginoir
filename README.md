@@ -26,25 +26,17 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-
-
-                   **💻 My Most Interests**
-    <h4 align="center">
-       | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
-    </h4>
+**💻 My Most Interests**
+<h4 align="center">
+   | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
+</h4>
 
 <br/>
 <div align="center">
-    <a href="https://github.com/enginoir">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
-    </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
 </div>
 <div align="center">
-    <a href="https://github.com/enginoir">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
-    </a>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
 </div>
 
-<div href="" align="center">
-    <h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
-</div>
+<h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
