@@ -2,13 +2,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=enginoir&style=plastic&label=GHub+Views)
 
-# Hi&nbsp;there, I am M. Yusuf 👋
+### Hi there, I am M. Yusuf 👋
 [![Linkedin Badge](https://img.shields.io/badge/-myusufsubhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myusuf/)](https://www.linkedin.com/in/muhammad-yusuf-subhan/)
 [![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 
-<h3 align="left"> 🛠Tech Stack </h3>
+**🛠Tech Stack**
 
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
