@@ -27,9 +27,8 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 
-<a align="center">
+
 **💻 My Most Interests**
-</a>
     <h4 align="center">
        | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
     </h4>
@@ -46,6 +45,6 @@
     </a>
 </div>
 
-<div align="center">
+<div href="" align="center">
     <h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
 </div>
