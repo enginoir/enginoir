@@ -1,10 +1,11 @@
-![Coder GIF](https://github.com/enginoir/enginoir/blob/main/giphy.gif)
+<img align="right" src="https://github.com/enginoir/enginoir/blob/main/giphy.gif" alt="Coder GIF" width="420" height="330">
 
-Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=enginoir&style=plastic&label=GHub+Views)
 
 ### Hi there, I am M. Yusuf 👋
 
-[Linkedin Badge](https://www.linkedin.com/in/muhammad-yusuf-subhan/) [Gmail Badge](mailto:yusufsubhanj@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-myusufsubhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myusuf/)](https://www.linkedin.com/in/muhammad-yusuf-subhan/)
+[![Gmail Badge](https://img.shields.io/badge/-yusufsubhanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yusufsubhanj@gmail.com)](mailto:yusufsubhanj@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://enginoir.github.io/)
 
@@ -25,9 +26,19 @@ Profile Views
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<align="center">💻 My Most Interests</align>
-<align="center">
-   | JS & php  | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |
-</align>
+---
+<h4 align="center">💻 My Most Interests</h4>
+<h4 align="center">
+   | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
+</h4>
 
-<align="center">--- By starring some of the repositories, means the world to me! ---</align>
+<br/>
+<div>
+   <div align="center">
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
+   </div>
+   <div align="center">
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
+   </div>
+</div>
+<h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
