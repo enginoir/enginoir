@@ -26,7 +26,8 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-**💻 My Most Interests**
+---
+<h4 align="center">💻 My Most Interests</h4>
 <h4 align="center">
    | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
 </h4>
