@@ -27,10 +27,11 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 ---
-<h4 align="center">💻 My Most Interests</h4>
-<h4 align="center">
+
+<align="center">💻 My Most Interests</align>
+<align="center">
    | JS & php <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Frontend Development | Backend Development ✍️ | Machine Learning 🧐 | Data Science 😬 |      
-</h4>
+</align>
 
 <br/>
 <div>
@@ -41,4 +42,4 @@
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
    </div>
 </div>
-<h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
+<align="center">--- By starring some of the repositories, means the world to me! ---</align>
