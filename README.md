@@ -32,11 +32,12 @@
 </h4>
 
 <br/>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
+<div>
+   <div align="center">
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginoir&theme=react" />
+   </div>
+   <div align="center">
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
+   </div>
 </div>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enginoir&theme=react" />
-</div>
-
 <h3 align="center">--- By starring some of the repositories, means the world to me! ---</h3>
